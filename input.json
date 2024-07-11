@@ -1,0 +1,19 @@
+[
+    {
+        "name": "John",
+        "age": 30,
+        "address": {
+            "street": "123 Main St",
+            "city": "Anytown"
+        }
+    },
+    {
+        "name": "Jane",
+        "age": 25,
+        "address": {
+            "street": "456 Maple Ave",
+            "city": "Othertown"
+        },
+        "phone": "555-1234"
+    }
+]
